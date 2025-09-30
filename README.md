@@ -30,6 +30,8 @@ Custom parameters example:
 ```bash
 python fh_simulator.py --num_time_slots 500 --num_channels 32 --mode prn --avoid_list 1100 1500
 ```
+![OUTPUT](fh_heatmap.png)
+S
 
 ## Output Files
 - `output/hops.csv` - detailed hop log
